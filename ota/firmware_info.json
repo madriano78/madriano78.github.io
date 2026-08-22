@@ -1,5 +1,5 @@
 {
-  "version": "4.0.0.7",
-  "url": "https://madriano78.github.io/ota/ESP32_M2/ESP32-M2.bin",
-  "sha256": "5e38f9b3ceaa73c0868b786aa0598e5c5a2d9c921549ea5cd63c63559d8a86ac"
+  "version": "4.0.0.2",
+  "url": "https://madriano78.github.io/ota/ESP32_M1/ESP32_M1.bin",
+  "sha256": "7081f7f3e7ea74a7c76bc6b408d31274b5478b9d84e8116242c4d6706cab0304"
 }
